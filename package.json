@@ -1,0 +1,24 @@
+{
+  "name": "angularjs-es6-redux-starter",
+  "version": "1.0.0",
+  "description": "Starter kit usiing AngularJS, ES6 and NgRedux",
+  "main": "app.js",
+  "repository": "https://github.com/Cameron485/angularjs-es6-redux-starter.git",
+  "author": "cfindlay <cameron.findlay@cgi.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@uirouter/angularjs": "1.0.6",
+    "angular": "1.6.6",
+    "angular-animate": "1.6.6",
+    "ng-redux": "3.5.2"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-eslint": "8.0.0",
+    "babel-loader": "7.1.2",
+    "eslint": "4.7.0",
+    "webpack": "3.6.0",
+    "webpack-dev-server": "2.8.2"
+  }
+}
